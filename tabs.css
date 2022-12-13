@@ -76,30 +76,4 @@
   margin-bottom: 8px;
 }
 
-.tweets-list-header {
-  position: relative;
-  width: 937.13px;
-  height: 75px;
-  left: 332.87px;
-  border: 1px solid #e6ecf0;
-}
 
-.tweets-list-header p {
-  position: relative;
-  left: 20.92px;
-  top: 24px;
-  width: 96px;
-  height: 26px;
-  font-family: "Noto Sans TC";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 26px;
-  color: #171725;
-}
-
-.tweets-list {
-  position: relative;
-  left: 332px;
-  width: 937px;
-}
